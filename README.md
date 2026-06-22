@@ -8,8 +8,9 @@ I write about AI-assisted documentation workflows, the gates and structure that 
 
 - **[Mechanical pattern gates: turning recurring review comments into scans](https://dev.to/wordcaster/mechanical-pattern-gates-how-i-turned-recurring-review-comments-into-scans-1c90)**. Automated checks built into an AI documentation review workflow.
 
+- **[LangExtract documentation rebuild](https://wordcaster.github.io/langextract/)**. A flat single-README LLM library restructured into a navigable Docusaurus site, with an information architecture designed for both humans and AI retrieval.
+
 <!-- Uncomment and add the URL as each ships:
-- **[LangExtract documentation rebuild](ADD-URL)**. A flat single-README LLM library restructured into a navigable Docusaurus site, with an information architecture designed for both humans and AI retrieval.
 - **[RAG-ready content case study](ADD-URL)**. Documentation restructured so it retrieves accurately and efficiently for AI, with before-and-after retrieval and token measurements.
 -->
 
